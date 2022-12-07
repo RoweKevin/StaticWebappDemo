@@ -1,0 +1,11 @@
+{
+  "globalHeaders": {
+    "strict-transport-security": "max-age=31536000",
+    "x-frame-options": "SAMEORIGIN",
+    "X-XSS-Protection": "1; mode=block",
+    "X-Permitted-Cross-Domain-Policies": "none",
+    "Referrer-Policy": "no-referrer-when-downgrade",
+    "X-Content-Type-Options": "nosniff",
+    "Permissions-Policy": "autoplay=()"
+  }
+}
