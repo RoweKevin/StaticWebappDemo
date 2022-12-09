@@ -1,6 +1,6 @@
 {
   "globalHeaders": {
-    "strict-transport-security": "max-age=31536000",
+    "strict-transport-security": "max-age=60006000",
     "x-frame-options": "SAMEORIGIN",
     "X-XSS-Protection": "1; mode=block",
     "X-Permitted-Cross-Domain-Policies": "none",
